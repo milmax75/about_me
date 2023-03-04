@@ -1,9 +1,9 @@
 # about_me
 my hard skills and interests
 
-#0969DA`Python
-#0969DA`Django Framework
-#0969DA`SQL
+Python
+Django Framework
+SQL
 Git
 HTML
 PostgreSQL
