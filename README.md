@@ -1,6 +1,6 @@
 # about_me
 my hard skills and interests
-[Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 
 Python
 Django Framework
